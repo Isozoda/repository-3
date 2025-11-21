@@ -7,3 +7,11 @@
   color: white;
   margin-bottom: 160px;
 }
+
+.background2 {
+  background-image: url(../image/IMAGE\ -\ 2025-11-21T203640.862.png);
+  height: 545px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
