@@ -1,0 +1,8 @@
+.background {
+  background-image: url(../image/IMAGE\ -\ 2025-11-21T170334.274.png);
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
