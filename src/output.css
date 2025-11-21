@@ -207,8 +207,14 @@
   .mt-\[57px\] {
     margin-top: 57px;
   }
+  .mt-\[66px\] {
+    margin-top: 66px;
+  }
   .mt-\[107px\] {
     margin-top: 107px;
+  }
+  .mb-0 {
+    margin-bottom: calc(var(--spacing) * 0);
   }
   .mb-2 {
     margin-bottom: calc(var(--spacing) * 2);
@@ -225,8 +231,14 @@
   .mb-12 {
     margin-bottom: calc(var(--spacing) * 12);
   }
+  .mb-15 {
+    margin-bottom: calc(var(--spacing) * 15);
+  }
   .mb-16 {
     margin-bottom: calc(var(--spacing) * 16);
+  }
+  .mb-20 {
+    margin-bottom: calc(var(--spacing) * 20);
   }
   .mb-40 {
     margin-bottom: calc(var(--spacing) * 40);
@@ -273,6 +285,9 @@
   .mb-\[89px\] {
     margin-bottom: 89px;
   }
+  .mb-\[177px\] {
+    margin-bottom: 177px;
+  }
   .mb-\[240\] {
     margin-bottom: 240;
   }
@@ -302,6 +317,12 @@
   }
   .table {
     display: table;
+  }
+  .h-57 {
+    height: calc(var(--spacing) * 57);
+  }
+  .w-57 {
+    width: calc(var(--spacing) * 57);
   }
   .w-\[90\%\] {
     width: 90%;
@@ -341,6 +362,9 @@
   }
   .gap-5 {
     gap: calc(var(--spacing) * 5);
+  }
+  .gap-6 {
+    gap: calc(var(--spacing) * 6);
   }
   .gap-10 {
     gap: calc(var(--spacing) * 10);
@@ -490,6 +514,9 @@
   .font-extrabold {
     --tw-font-weight: var(--font-weight-extrabold);
     font-weight: var(--font-weight-extrabold);
+  }
+  .text-\[\#\#605E5D\] {
+    color: ##605E5D;
   }
   .text-\[\#605E5D\] {
     color: #605E5D;
