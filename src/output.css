@@ -198,6 +198,12 @@
   .mt-16 {
     margin-top: calc(var(--spacing) * 16);
   }
+  .mt-20 {
+    margin-top: calc(var(--spacing) * 20);
+  }
+  .mt-\[43px\] {
+    margin-top: 43px;
+  }
   .mt-\[57px\] {
     margin-top: 57px;
   }
@@ -216,8 +222,17 @@
   .mb-12 {
     margin-bottom: calc(var(--spacing) * 12);
   }
+  .mb-16 {
+    margin-bottom: calc(var(--spacing) * 16);
+  }
   .mb-40 {
     margin-bottom: calc(var(--spacing) * 40);
+  }
+  .mb-60 {
+    margin-bottom: calc(var(--spacing) * 60);
+  }
+  .mb-120 {
+    margin-bottom: calc(var(--spacing) * 120);
   }
   .mb-\[13px\] {
     margin-bottom: 13px;
@@ -228,17 +243,41 @@
   .mb-\[19px\] {
     margin-bottom: 19px;
   }
+  .mb-\[31px\] {
+    margin-bottom: 31px;
+  }
+  .mb-\[43px\] {
+    margin-bottom: 43px;
+  }
   .mb-\[48px\] {
     margin-bottom: 48px;
   }
+  .mb-\[61p\] {
+    margin-bottom: 61p;
+  }
   .mb-\[86px\] {
     margin-bottom: 86px;
+  }
+  .mb-\[89px\] {
+    margin-bottom: 89px;
+  }
+  .mb-\[240\] {
+    margin-bottom: 240;
+  }
+  .mb-\[240px\] {
+    margin-bottom: 240px;
   }
   .mb-\[300px\] {
     margin-bottom: 300px;
   }
   .ml-0 {
     margin-left: calc(var(--spacing) * 0);
+  }
+  .ml-1 {
+    margin-left: calc(var(--spacing) * 1);
+  }
+  .ml-10 {
+    margin-left: calc(var(--spacing) * 10);
   }
   .ml-\[80px\] {
     margin-left: 80px;
@@ -287,6 +326,9 @@
   }
   .gap-4 {
     gap: calc(var(--spacing) * 4);
+  }
+  .gap-5 {
+    gap: calc(var(--spacing) * 5);
   }
   .gap-10 {
     gap: calc(var(--spacing) * 10);
@@ -345,6 +387,9 @@
   .p-7 {
     padding: calc(var(--spacing) * 7);
   }
+  .p-10 {
+    padding: calc(var(--spacing) * 10);
+  }
   .px-5 {
     padding-inline: calc(var(--spacing) * 5);
   }
@@ -365,6 +410,21 @@
   }
   .pt-25 {
     padding-top: calc(var(--spacing) * 25);
+  }
+  .pt-60 {
+    padding-top: calc(var(--spacing) * 60);
+  }
+  .pb-\[31px\] {
+    padding-bottom: 31px;
+  }
+  .pb-\[43\] {
+    padding-bottom: 43;
+  }
+  .pb-\[43px\] {
+    padding-bottom: 43px;
+  }
+  .pl-10 {
+    padding-left: calc(var(--spacing) * 10);
   }
   .pl-20 {
     padding-left: calc(var(--spacing) * 20);
@@ -419,8 +479,14 @@
   .text-\[\#989899\] {
     color: #989899;
   }
+  .text-\[\#EAEAEB\] {
+    color: #EAEAEB;
+  }
   .text-\[\#FF4D01\] {
     color: #FF4D01;
+  }
+  .text-\[18\] {
+    color: 18;
   }
   .text-\[54\] {
     color: 54;
