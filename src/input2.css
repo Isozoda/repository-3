@@ -30,3 +30,13 @@
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+@media (max-widht: 500px) {
+  .background {
+    height: 100px;
+    padding-top: 100px;
+  }
+  .background2 {
+    height: auto;
+  }
+}
